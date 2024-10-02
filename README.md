@@ -1,6 +1,5 @@
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MutantAc/sem/main.yml?branch=develop)
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MutantAc/sem/main.yml?branch=develop)
 # Software Engineering Methods
 * Master Build Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MutantAc/sem/main.yml?branch=master)
 * Develop Branch Status ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/MutantAc/sem/main.yml?branch=develop)
